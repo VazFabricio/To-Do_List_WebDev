@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(28,28,28);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 24px;
+}
+.title{
+    font-size: 28px;
+    color: greenyellow;
+    
+}
+.list-item{
+    margin-bottom: 20px;
+}
+
+input{
+    height: 32px;
+    background-color: transparent;
+    color: white;
+    font-size: 15px;
+    border-color: greenyellow;
+    border-radius: 6px;
+    padding:10px;
+}
+.add-task-button{
+    height: 32px;
+    font-size: 15px;
+    padding:5px;
+    border-radius: 6px;
+    border-width: 0;
+    font-weight: bold;
+}
